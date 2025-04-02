@@ -1,0 +1,24 @@
+h2,p,li,h4,fieldset {
+  font-size: larger;
+  font-family: serif;
+  text-align: center;
+  font-weight: bold;
+  color: brown;
+  
+}
+h1 {
+  font-size: xx-large;
+  font-family: serif;
+  text-align: center;
+  font-weight: bold;
+  color: brown;
+}
+img {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+hr {
+  border-color: red;
+  border-width: 5px;
+}
