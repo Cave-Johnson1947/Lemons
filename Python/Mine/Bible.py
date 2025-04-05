@@ -105,13 +105,20 @@ bible_quotes = {
     ]
 }
 
-get_quote = input("Do you want a Bible quote based on your mood? (y/n): ")
+while True:
+    get_quote = input("Do you want a Bible quote based on your mood? (y/n): ")
 
-if get_quote.lower() == "y":
-    mood = input("Enter your mood (sad, happy, peace, hope, strength, lust): ").lower()
-    if mood in bible_quotes:
-        print(random.choice(bible_quotes[mood]))
+    if get_quote.lower() == "y":
+        mood = input("Enter your mood (sad, happy, peace, hope, strength, lust): ").lower()
+        if mood in bible_quotes:
+            print(random.choice(bible_quotes[mood]))
+        else:
+            print("Sorry, I don't have quotes for that mood. Please try again.")
     else:
-        print("Sorry, I don't have quotes for that mood. Please try again.")
-else:
-    print("May God bless you!")
+        print("May God bless you!")
+        break  # This ends the loop when the user doesn't want more quotes
+
+    another = input("Would you like another quote? (y/n): ")
+    if another.lower() != "y":
+        print("May God bless you!")
+        break  # This ends the loop if the user doesn't want another quote
