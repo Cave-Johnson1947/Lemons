@@ -1,4 +1,4 @@
-instrument = "kazoo"
-age = 7
+print("Hello", "World")
+print()
+print("Python\nRocks")
 
-print("I have played the " + instrument + " since I was " + str(age) + " years old.")

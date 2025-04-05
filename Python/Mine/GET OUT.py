@@ -33,7 +33,7 @@ looping_songs = [
     "Portal Radio (Clean)",
     "Portal Radio (Radio Mix)",
     "Flint and Steel",
-    "The Nether",
+    "The Nether (Fast)",
     "Chicken Jockey",
     "Kirby",
     "I Am Steve",
@@ -44,9 +44,18 @@ looping_songs = [
     "Illuminati",
     "It's Been So Long",
     "Valve Theme",
+    "As A Child I Yearned For The Mines",
+    "Why You Should See The Minecraft Movie",
+    "Steve's Lava Chicken",
+    "The Nether (Normal)",
+    "All Minecraft Memes",
+    "Har-Har-Har-Har Meme",
+    "FNAF Movie",
+    "It's Been So Long",
+    "I Am Placing Blocks And Shit",
+    "End Credits",
 ]
 
-# Folders & Songs (Nested Structure)
 folders = {
     "GTA Sounds": {
         "songs": {
@@ -98,12 +107,9 @@ folders = {
             "Communist Detected": "communist-detected-on-american-soil-lethal-force-engaged.mp3",
             "Get Out": "tuco-get-out.mp3",
             "Metal Pipe": "jixaw-metal-pipe-falling-sound.mp3",
-            "Never Gonna Give You Down Part 1": "4e1c48d7-da6d-47de-9f24-e7b5dff41e32.mp3",
-            "Never Gonna Let You Down Part 2": "never-gonna-give-you-up_FvEsxPC.mp3",
-            "Saul Goodman": "saul-goodman-made-with-Voicemod.mp3",
-            "Free Bird": "only-the-best-part-of-free-bird-made-with-Voicemod.mp3",
             "Bill Nye": "af72d5da-ca12-4c9d-8b1a-c6833c517314.mp3",
             "Pacer Test": "fitnessgram-pacer-test-loud.mp3",
+            "Limit On Talking": "limit-on-talking.mp3",
             "Illuminati": "illuminati-confirmed-sound-effect-music-1_vIWLnnq.mp3",
             "Buy Gold": "bill-cypher.mp3",
         }
@@ -118,6 +124,10 @@ folders = {
             "Erika Song": "Erika-German-Song-Sound-Effect.mp3",
             "USSR": "Soviet-Union-Anthem-Sound-Effect.mp3",
             "Kirby": "KIRBY DREAM LAND - AUDIO FROM JAYUZUMI.COM.mp3",
+            "Never Gonna Give You Down Part 1": "4e1c48d7-da6d-47de-9f24-e7b5dff41e32.mp3",
+            "Never Gonna Let You Down Part 2": "never-gonna-give-you-up_FvEsxPC.mp3",
+            "Saul Goodman": "saul-goodman-made-with-Voicemod.mp3",
+            "Free Bird": "only-the-best-part-of-free-bird-made-with-Voicemod.mp3",
             "I Am Iron Man": "i-am-iron-man-(epic-music-plays)-made-with-Voicemod.mp3",
         }
     },
@@ -141,15 +151,25 @@ folders = {
                     "FNAF 6 Jumpscare": "fnaf-6-jumpscare-made-with-Voicemod.mp3",
                     "FNAF 6 Ending": "fnaf-6-ending.mp3",
                     "It's Been So Long": "it's-been-so-long-made-with-Voicemod.mp3",
+                    "Har-Har-Har-Har Meme": "har-har-har-har-fnaf-abdul-cisse-tiktok-(1)-made-with-Voicemod.mp3",
+                    "FNAF Movie": "FNAF MOVIE _ Toreador March song (stem separation) 4.mp3",
+                    "FNAF Brain Rot": "ytmp3free.cc_springtrap-uses-genalpha-slang-youtubemp3free.org - Copy.mp3",
                 }
             },
             "Minecraft": {
                 "songs": {
-                    "Flint and Steel": "flint-and-steel-meme_pMPGXOO.mp3",
-                    "The Nether": "the-nether-made-with-Voicemod.mp3",
+                    "Flint and Steel": "1_HOUR_of_FLINT_AND_STEEL_Mincraft_Movie_Trailer (1) - Copy.mp3",
+                    "The Nether (Fast)": "the-nether-made-with-Voicemod.mp3",
+                    "The Nether (Normal)": "1_HOUR_of_THE_NETHER_Mincraft_Movie_Trailer.mp3",
                     "Chicken Jockey": "chicken-jockey-minecraft-movie-made-with-Voicemod.mp3",
                     "I Am Steve": "i...-am-steve-made-with-Voicemod.mp3",
                     "This is a Crafting Table": "this-is-a-crafting-table.mp3",
+                    "As A Child I Yearned For The Mines": "as-a-child-i-yearned-for-the-mines.mp3",
+                    "Steve's Lava Chicken":  "Steve's Lava Chicken.mp3", 
+                    "Why You Should See The Minecraft Movie": "Why you should see the minecraft movie.mp3",
+                    "I Am Placing Blocks And Shit": "Jack_black_unreleased_Minecraft_song (1).mp3",
+                    "End Credits": "Steve's Last Song - A Minecraft Movie [Jack Black A.I].mp3",
+                    "All Minecraft Memes": "videoplayback.mp3",
                 }
             }
         }
@@ -552,5 +572,4 @@ while running:
 
     pygame.display.flip()
     clock.tick(30)
-
-pygame.quit()
+pygame.quit
