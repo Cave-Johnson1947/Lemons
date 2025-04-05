@@ -1,1 +1,1 @@
-# FUCK-YOU
+# Cave Johnson here. I’m making a note here: huge success. At Aperture Science, we don't just think outside the box. We ignore the box completely and invent a new way of thinking that makes the box feel inadequate and insecure. Sorry, box. 
