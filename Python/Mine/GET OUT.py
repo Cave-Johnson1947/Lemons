@@ -96,7 +96,10 @@ folders = {
                     "Because I'm a Potato": "because-im-a-potato-101soundboards.mp3",
                     "SPAAAAAAAAAAACE": "space-core-made-with-Voicemod.mp3",
                     "Still Alive": "Still Alive.mp3",
+                    "Still Alive (1950's)": "Still Alive (From _Portal_) 4.mp3",
                     "Want You Gone": "3-13 - Want You Gone [Feat. Ellen McLain].mp3",
+                    "Want You Gone (1950's)": "Want You Gone - Frank Sinatra Big Band Swing Version (The 8-Bit Big Band) 4.mp3",
+                    "Portal Gun": "portal-gun-ice.mp3",
                     "You Have Brain Damage": "you-have-brain-damage-made-with-Voicemod.mp3",
                 }
             }
@@ -111,7 +114,6 @@ folders = {
             "Bill Nye": "af72d5da-ca12-4c9d-8b1a-c6833c517314.mp3",
             "Pacer Test": "fitnessgram-pacer-test-loud.mp3",
             "Limit On Talking": "limit-on-talking.mp3",
-            "Monday Left Me Broken": "monday-left-me-broken-cat-made-with-Voicemod.mp3",
         }
     },
     "Music": {
@@ -126,6 +128,8 @@ folders = {
             "Kirby": "KIRBY DREAM LAND - AUDIO FROM JAYUZUMI.COM.mp3",
             "Never Gonna Give You Down Part 1": "4e1c48d7-da6d-47de-9f24-e7b5dff41e32.mp3",
             "Never Gonna Let You Down Part 2": "never-gonna-give-you-up_FvEsxPC.mp3",
+            "Rule, Britannia!": "Rule, Britannia! (Instrumental).mp3",
+            "Monday Left Me Broken": "monday-left-me-broken-cat-made-with-Voicemod.mp3",
             "Saul Goodman": "saul-goodman-made-with-Voicemod.mp3",
             "Free Bird": "only-the-best-part-of-free-bird-made-with-Voicemod.mp3",
             "I Am Iron Man": "i-am-iron-man-(epic-music-plays)-made-with-Voicemod.mp3",
