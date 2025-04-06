@@ -54,6 +54,7 @@ looping_songs = [
     "It's Been So Long",
     "I Am Placing Blocks And Shit",
     "End Credits",
+    "Monday Left Me Broken",
 ]
 
 folders = {
@@ -110,8 +111,7 @@ folders = {
             "Bill Nye": "af72d5da-ca12-4c9d-8b1a-c6833c517314.mp3",
             "Pacer Test": "fitnessgram-pacer-test-loud.mp3",
             "Limit On Talking": "limit-on-talking.mp3",
-            "Illuminati": "illuminati-confirmed-sound-effect-music-1_vIWLnnq.mp3",
-            "Buy Gold": "bill-cypher.mp3",
+            "Monday Left Me Broken": "monday-left-me-broken-cat-made-with-Voicemod.mp3",
         }
     },
     "Music": {
