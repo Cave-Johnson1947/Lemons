@@ -1,8 +1,16 @@
-age = int(input("Age: "))
-born = input("Born in the U.S.? (Yes/No): ").lower()
-years_of_residency = int(input("Years of residency: "))
+import math
 
-if age >= 35 and born == "yes" and years_of_residency >= 14:
-    print("You are eligible to run for president!")
-else:
-    print("You are not eligible to run for president.")
+# Ask user for the radius of the circle
+radius = float(input("Enter the radius of the circle: "))
+
+# Calculate area and circumference
+area = math.pi * radius ** 2
+circumference = 2 * math.pi * radius
+
+# Display the results
+print(f"Area: {round(area, 2)}")
+print(f"Circumference: {round(circumference, 2)}")
+print("\nCircle Area Formula:")
+print("Area = πr²")
+print("\nCircle Circumference Formula:")
+print("Perimeter = 2 * π * r")
