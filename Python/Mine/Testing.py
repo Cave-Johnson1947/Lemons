@@ -1,7 +1,8 @@
-job = input("Are you an administrator, teacher, or student?: ")
-if job == "administrator" or job == "teacher":
-    print("Administrators and teachers get keys!")
-elif job == "student":
-    print("Students do not get keys!")
+age = int(input("Age: "))
+born = input("Born in the U.S.? (Yes/No): ").lower()
+years_of_residency = int(input("Years of residency: "))
+
+if age >= 35 and born == "yes" and years_of_residency >= 14:
+    print("You are eligible to run for president!")
 else:
-    print("You can only be an administrator, teacher, or student!")
+    print("You are not eligible to run for president.")
