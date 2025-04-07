@@ -1,3 +1,4 @@
+# Don't gamble. I bet on red, but it was black, and I lost 1,500,000 VND.
 import random
 
 suits = ['Hearts', 'Diamonds', 'Clubs', 'Spades']
