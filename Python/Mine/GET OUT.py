@@ -55,6 +55,7 @@ looping_songs = [
     "I Am Placing Blocks And Shit",
     "End Credits",
     "Monday Left Me Broken",
+    "Rule, Britannia!",
 ]
 
 folders = {
@@ -509,8 +510,7 @@ while running:
                 button_rect = pygame.Rect(column_x + column_index * column_width, 100 + row_index * (button_height + 20), button_width, button_height)
                 if button_rect.x + button_width > 50 and button_rect.x < WINDOW_WIDTH - 50:
                     pygame.draw.rect(screen, button_color, button_rect, border_radius=corner_radius)
-                    if i < folder_songs:
-                        # Song button
+                    if i < len(folder_songs): # Song button
                         song_name, _ = folder_songs[i]
                         # Draw a grey oval around "My Name is Edwin" in All Songs
                         if current_folder == "All Songs" and song_name == "My Name is Edwin":
