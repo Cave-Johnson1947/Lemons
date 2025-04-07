@@ -56,6 +56,7 @@ looping_songs = [
     "End Credits",
     "Monday Left Me Broken",
     "Rule, Britannia!",
+    "LET'S MINECRAFT",
 ]
 
 folders = {
@@ -174,6 +175,7 @@ folders = {
                     "Why You Should See The Minecraft Movie": "Why you should see the minecraft movie.mp3",
                     "I Am Placing Blocks And Shit": "Jack_black_unreleased_Minecraft_song (1).mp3",
                     "End Credits": "Steve's Last Song - A Minecraft Movie [Jack Black A.I].mp3",
+                    "LET'S MINECRAFT": "LET'S MINECRAFT  #minecraft #minecraftmemes #edit #trend.mp3",
                     "All Minecraft Memes": "videoplayback.mp3",
                 }
             }
