@@ -509,7 +509,7 @@ while running:
                 button_rect = pygame.Rect(column_x + column_index * column_width, 100 + row_index * (button_height + 20), button_width, button_height)
                 if button_rect.x + button_width > 50 and button_rect.x < WINDOW_WIDTH - 50:
                     pygame.draw.rect(screen, button_color, button_rect, border_radius=corner_radius)
-                    if i < len(folder_songs):
+                    if i < folder_songs:
                         # Song button
                         song_name, _ = folder_songs[i]
                         # Draw a grey oval around "My Name is Edwin" in All Songs
