@@ -58,6 +58,7 @@ looping_songs = [
     "Rule, Britannia!",
     "LET'S MINECRAFT",
     "NOT LIKE US-MINECRAFT",
+    "FLINT AND MEAL",
 ]
 
 folders = {
@@ -178,6 +179,7 @@ folders = {
                     "End Credits": "Steve's Last Song - A Minecraft Movie [Jack Black A.I].mp3",
                     "LET'S MINECRAFT": "LET'S MINECRAFT  #minecraft #minecraftmemes #edit #trend.mp3",
                     "NOT LIKE US-MINECRAFT": "I AM STEVE 🗣️🗣️🔥🔥  #minecraft   #minecraftmeme   #edit   #trend   #song 4.mp3",
+                    "FLINT AND MEAL": "Snapchat-1976634028.mp3",
                     "All Minecraft Memes": "videoplayback.mp3",
                 }
             }
