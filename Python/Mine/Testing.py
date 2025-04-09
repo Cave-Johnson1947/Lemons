@@ -1,14 +1,26 @@
-age = int(input("Age: "))
-born = input("Born in the U.S.? (Yes/No): ").lower()
-years_of_residency = int(input("Years of residency: "))
+def caesar_cipher(plaintext, key):
+    ciphertext = ""
 
-if age >= 35 and born == "yes" and years_of_residency >= 14:
-    print("You are eligible to run for president!")
+    # Loop through each character in the plaintext
+    for char in plaintext:
+        # Check if the character is an uppercase letter
+        if char.isupper():
+            ciphertext += chr((ord(char) + key - 65) % 26 + 65)
+        # Check if the character is a lowercase letter
+        elif char.islower():
+            ciphertext += chr((ord(char) + key - 97) % 26 + 97)
+        else:
+            # Non-letter characters are added as is
+            ciphertext += char
+    
+    return ciphertext
+
+# Get user input
+plaintext = input("Enter the plaintext: ")
+key = int(input("Enter the key (shift): "))
+
+# Ensure the key is positive
+if key < 0:
+    print("Key must be a positive integer.")
 else:
-    print("You are not eligible to run for president.")
-    if age < 35:
-        print("You are too young. You must be at least 35 years old.")
-    if born != "yes":
-        print("You must be born in the U.S. to run for president.")
-    if years_of_residency < 14:
-        print("You have not been a resident for long enough.")
+    print(f"Encrypted text: {caesar_cipher(plaintext, key)}")
