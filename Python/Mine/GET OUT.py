@@ -60,6 +60,7 @@ looping_songs = [
     "NOT LIKE US-MINECRAFT",
     "FLINT AND MEAL",
     "NOT LIKE US-MINECRAFT FULL",
+    "Lava Chicken (APT. Cover)",  
 ]
 
 folders = {
@@ -184,6 +185,7 @@ folders = {
                     "LET'S MINECRAFT": "LET'S MINECRAFT  #minecraft #minecraftmemes #edit #trend.mp3",
                     "NOT LIKE US-MINECRAFT": "I AM STEVE 🗣️🗣️🔥🔥  #minecraft   #minecraftmeme   #edit   #trend   #song 4.mp3",
                     "NOT LIKE US-MINECRAFT FULL": "Not Like Steve (Audio).mp3",
+                    "Lava Chicken (APT. Cover)": "Lava Chicken (Audio).mp3", 
                     "FLINT AND MEAL": "Snapchat-1976634028.mp3",
                     "All Minecraft Memes": "videoplayback.mp3",
                 }
