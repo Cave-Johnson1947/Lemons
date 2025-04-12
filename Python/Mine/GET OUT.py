@@ -59,6 +59,7 @@ looping_songs = [
     "LET'S MINECRAFT",
     "NOT LIKE US-MINECRAFT",
     "FLINT AND MEAL",
+    "NOT LIKE US-MINECRAFT FULL",
 ]
 
 folders = {
@@ -105,6 +106,8 @@ folders = {
                     "Want You Gone (1950's)": "Want You Gone - Frank Sinatra Big Band Swing Version (The 8-Bit Big Band) 4.mp3",
                     "Portal Gun": "portal-gun-ice.mp3",
                     "You Have Brain Damage": "you-have-brain-damage-made-with-Voicemod.mp3",
+                    "Cave Johnson Multiverse": "Portal 2 Perpetual Testing Initiative (mp3cut.net).mp3",
+                    "Cave Johnson Methods": "Portal 2 Perpetual Testing Initiative (mp3cut.net) (1).mp3",
                 }
             }
         }
@@ -118,6 +121,7 @@ folders = {
             "Bill Nye": "af72d5da-ca12-4c9d-8b1a-c6833c517314.mp3",
             "Pacer Test": "fitnessgram-pacer-test-loud.mp3",
             "Limit On Talking": "limit-on-talking.mp3",
+            "Long Before Time Had A Name": "long-before-time-had-a-name-made-with-Voicemod.mp3",
         }
     },
     "Music": {
@@ -179,6 +183,7 @@ folders = {
                     "End Credits": "Steve's Last Song - A Minecraft Movie [Jack Black A.I].mp3",
                     "LET'S MINECRAFT": "LET'S MINECRAFT  #minecraft #minecraftmemes #edit #trend.mp3",
                     "NOT LIKE US-MINECRAFT": "I AM STEVE 🗣️🗣️🔥🔥  #minecraft   #minecraftmeme   #edit   #trend   #song 4.mp3",
+                    "NOT LIKE US-MINECRAFT FULL": "Not Like Steve (Audio).mp3",
                     "FLINT AND MEAL": "Snapchat-1976634028.mp3",
                     "All Minecraft Memes": "videoplayback.mp3",
                 }

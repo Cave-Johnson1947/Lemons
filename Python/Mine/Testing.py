@@ -1,26 +1,11 @@
-def caesar_cipher(plaintext, key):
-    ciphertext = ""
+tons_of_food = 0.07
+num_people = 25
 
-    # Loop through each character in the plaintext
-    for char in plaintext:
-        # Check if the character is an uppercase letter
-        if char.isupper():
-            ciphertext += chr((ord(char) + key - 65) % 26 + 65)
-        # Check if the character is a lowercase letter
-        elif char.islower():
-            ciphertext += chr((ord(char) + key - 97) % 26 + 97)
-        else:
-            # Non-letter characters are added as is
-            ciphertext += char
-    
-    return ciphertext
+tons_of_food_per_person = tons_of_food / num_people
+print(tons_of_food_per_person)
 
-# Get user input
-plaintext = input("Enter the plaintext: ")
-key = int(input("Enter the key (shift): "))
-
-# Ensure the key is positive
-if key < 0:
-    print("Key must be a positive integer.")
+tons_taken = float(input("How many tons of food did you take? "))
+if tons_taken == tons_of_food_per_person:
+    print("Good job, you took the right amount of food!")
 else:
-    print(f"Encrypted text: {caesar_cipher(plaintext, key)}")
+    print("You took the wrong amount of food!")
