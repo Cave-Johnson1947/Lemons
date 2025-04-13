@@ -139,6 +139,7 @@ folders = {
             "Never Gonna Give You Down Part 1": "4e1c48d7-da6d-47de-9f24-e7b5dff41e32.mp3",
             "Never Gonna Let You Down Part 2": "never-gonna-give-you-up_FvEsxPC.mp3",
             "Rule, Britannia!": "Rule, Britannia! (Instrumental).mp3",
+            "Moskau": "Dschinghis Khan - Moskau (Starparade 14.06.1979).mp3",
             "Monday Left Me Broken": "monday-left-me-broken-cat-made-with-Voicemod.mp3",
             "Saul Goodman": "saul-goodman-made-with-Voicemod.mp3",
             "Free Bird": "only-the-best-part-of-free-bird-made-with-Voicemod.mp3",
