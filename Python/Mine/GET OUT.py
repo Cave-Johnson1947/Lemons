@@ -13,7 +13,7 @@ screen = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT), pygame.RESIZABLE
 pygame.display.set_caption("Stephen Hawking Simulator")
 
 # Colors
-button_color = (255, 0, 0)  # Redd
+button_color = (255, 0, 0)  # Red
 text_color = (0, 0, 0)  # Black
 bg_color = (0, 0, 0)  # Black Background
 scrollbar_color = (100, 100, 100)  # Gray
@@ -123,6 +123,9 @@ folders = {
             "Pacer Test": "fitnessgram-pacer-test-loud.mp3",
             "Limit On Talking": "limit-on-talking.mp3",
             "Long Before Time Had A Name": "long-before-time-had-a-name-made-with-Voicemod.mp3",
+            "Dial Up Internet": "Dial Up Internet - Sound Effect (HD).mp3",
+            "Are You Sure": "omni-man-are-you-sure.mp3",
+            "I Am The Alpha": "I AM THE ALPHA  Christian Edit   #JesusChrist #Christianity #Revelation.mp3",
             "My Mommy Said No More Skibidi Toilet": "my-mommy-said-no-more-skibidi-toilet-made-with-Voicemod.mp3",
         }
     },
@@ -270,6 +273,7 @@ mouse_offset = (0, 0)
 scroll_offset = 0  # Horizontal scroll offset
 scrollbar_dragging = False
 scrollbar_pos = 0  # Position of scrollbar handle
+is_paused = False  # Track whether music is paused
 
 running = True
 clock = pygame.time.Clock()
@@ -304,7 +308,7 @@ while running:
                         max_items_in_column = 5
                         column_x = 50 - scroll_offset
                         column_width = 350
-                        total_items = len(subfolders) + 1  # Include only Back button (no Stop button)
+                        total_items = len(subfolders) + 1  # Include only Back button
                         for i in range(total_items):
                             column_index = i // max_items_in_column
                             row_index = i % max_items_in_column
@@ -336,7 +340,7 @@ while running:
                         max_items_in_column = 5
                         column_x = 50 - scroll_offset
                         column_width = 350
-                        total_items = len(folder_songs) + 2  # Include Stop and Back buttons
+                        total_items = len(folder_songs) + 3  # Include Pause, Stop, and Back buttons
                         for i in range(total_items):
                             column_index = i // max_items_in_column
                             row_index = i % max_items_in_column
@@ -353,14 +357,29 @@ while running:
                                             pygame.mixer.music.play(loops=-1)  # Loop indefinitely
                                         else:
                                             pygame.mixer.music.play(loops=0)  # Play once
+                                        is_paused = False  # Reset pause state when playing new song
                                     else:
                                         print(f"Error: File not found at {song_path}")
                                     break
                             elif i == len(folder_songs):
+                                # Pause button
+                                pause_button = pygame.Rect(column_x + column_index * column_width, 100 + row_index * (button_height + 20), button_width, button_height)
+                                if pause_button.collidepoint(event.pos):
+                                    if is_paused:
+                                        pygame.mixer.music.unpause()
+                                        is_paused = False
+                                        print("Music resumed")
+                                    else:
+                                        pygame.mixer.music.pause()
+                                        is_paused = True
+                                        print("Music paused")
+                                    break
+                            elif i == len(folder_songs) + 1:
                                 # Stop button
                                 stop_button = pygame.Rect(column_x + column_index * column_width, 100 + row_index * (button_height + 20), button_width, button_height)
                                 if stop_button.collidepoint(event.pos):
                                     pygame.mixer.music.stop()
+                                    is_paused = False  # Reset pause state
                                     print("Music stopped")
                                     break
                             else:
@@ -382,7 +401,7 @@ while running:
                     max_items_in_column = 5
                     column_x = 50 - scroll_offset
                     column_width = 350
-                    total_items = len(folder_songs) + 2  # Include Stop and Back buttons
+                    total_items = len(folder_songs) + 3  # Include Pause, Stop, and Back buttons
                     for i in range(total_items):
                         column_index = i // max_items_in_column
                         row_index = i % max_items_in_column
@@ -399,14 +418,29 @@ while running:
                                         pygame.mixer.music.play(loops=-1)  # Loop indefinitely
                                     else:
                                         pygame.mixer.music.play(loops=0)  # Play once
+                                    is_paused = False  # Reset pause state when playing new song
                                 else:
                                     print(f"Error: File not found at {song_path}")
                                 break
                         elif i == len(folder_songs):
+                            # Pause button
+                            pause_button = pygame.Rect(column_x + column_index * column_width, 100 + row_index * (button_height + 20), button_width, button_height)
+                            if pause_button.collidepoint(event.pos):
+                                if is_paused:
+                                    pygame.mixer.music.unpause()
+                                    is_paused = False
+                                    print("Music resumed")
+                                else:
+                                    pygame.mixer.music.pause()
+                                    is_paused = True
+                                    print("Music paused")
+                                break
+                        elif i == len(folder_songs) + 1:
                             # Stop button
                             stop_button = pygame.Rect(column_x + column_index * column_width, 100 + row_index * (button_height + 20), button_width, button_height)
                             if stop_button.collidepoint(event.pos):
                                 pygame.mixer.music.stop()
+                                is_paused = False  # Reset pause state
                                 print("Music stopped")
                                 break
                         else:
@@ -439,11 +473,11 @@ while running:
             elif scrollbar_dragging:
                 scrollbar_pos = max(0, min(event.pos[0] - 50, WINDOW_WIDTH - 100 - 50))
                 if current_subfolder:
-                    total_content_width = ((len(folders[current_folder]["subfolders"][current_subfolder]["songs"]) + 2) // 5 + 1) * 350
+                    total_content_width = ((len(folders[current_folder]["subfolders"][current_subfolder]["songs"]) + 3) // 5 + 1) * 350
                 elif "subfolders" in folders[current_folder]:
-                    total_content_width = ((len(folders[current_folder]["subfolders"]) + 1) // 5 + 1) * 350  # Adjusted for no Stop button
+                    total_content_width = ((len(folders[current_folder]["subfolders"]) + 1) // 5 + 1) * 350
                 else:
-                    total_content_width = ((len(folders[current_folder]["songs"]) + 2) // 5 + 1) * 350
+                    total_content_width = ((len(folders[current_folder]["songs"]) + 3) // 5 + 1) * 350
                 visible_width = WINDOW_WIDTH - 100
                 if total_content_width > visible_width:
                     scroll_offset = (scrollbar_pos / (WINDOW_WIDTH - 150)) * (total_content_width - visible_width)
@@ -488,7 +522,7 @@ while running:
             max_items_in_column = 5
             column_x = 50 - scroll_offset
             column_width = 350
-            total_items = len(subfolders) + 1  # Include only Back button (no Stop button)
+            total_items = len(subfolders) + 1  # Include only Back button
             for i in range(total_items):
                 column_index = i // max_items_in_column
                 row_index = i % max_items_in_column
@@ -518,7 +552,7 @@ while running:
             max_items_in_column = 5
             column_x = 50 - scroll_offset
             column_width = 350
-            total_items = len(folder_songs) + 2  # Include Stop and Back buttons
+            total_items = len(folder_songs) + 3  # Include Pause, Stop, and Back buttons
             for i in range(total_items):
                 column_index = i // max_items_in_column
                 row_index = i % max_items_in_column
@@ -533,6 +567,9 @@ while running:
                             pygame.draw.ellipse(screen, highlight_color, oval_rect, 3)
                         render_wrapped_text(song_name, font, text_color, button_width - 20, button_rect)
                     elif i == len(folder_songs):
+                        # Pause button
+                        render_wrapped_text("Resume" if is_paused else "Pause", font, text_color, button_width - 20, button_rect)
+                    elif i == len(folder_songs) + 1:
                         # Stop button
                         render_wrapped_text("Stop", font, text_color, button_width - 20, button_rect)
                     else:
@@ -555,7 +592,7 @@ while running:
         max_items_in_column = 5
         column_x = 50 - scroll_offset
         column_width = 350
-        total_items = len(folder_songs) + 2  # Include Stop and Back buttons
+        total_items = len(folder_songs) + 3  # Include Pause, Stop, and Back buttons
         for i in range(total_items):
             column_index = i // max_items_in_column
             row_index = i % max_items_in_column
@@ -573,6 +610,9 @@ while running:
                         pygame.draw.ellipse(screen, highlight_color, oval_rect, 3)  # Draw oval with 3px thickness
                     render_wrapped_text(song_name, font, text_color, button_width - 20, button_rect)
                 elif i == len(folder_songs):
+                    # Pause button
+                    render_wrapped_text("Resume" if is_paused else "Pause", font, text_color, button_width - 20, button_rect)
+                elif i == len(folder_songs) + 1:
                     # Stop button
                     render_wrapped_text("Stop", font, text_color, button_width - 20, button_rect)
                 else:
@@ -591,4 +631,4 @@ while running:
 
     pygame.display.flip()
     clock.tick(30)
-pygame.quit
+pygame.quit()
