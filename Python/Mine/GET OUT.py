@@ -61,6 +61,7 @@ looping_songs = [
     "FLINT AND MEAL",
     "NOT LIKE US-MINECRAFT FULL",
     "Lava Chicken (APT. Cover)",  
+    "Ender Pearl",
 ]
 
 folders = {
@@ -72,6 +73,8 @@ folders = {
             "Ni**a": "lamar_gtav_n___a_FFHFxBq.mp3",
             "Ah Shit": "gta-san-andreas-ah-shit-here-we-go-again_BWv0Gvc.mp3",
             "You Forget A Thousand Things Everyday": "gta-5-you-forget-a-thousand-things-everyday-1-audiotrimmer.mp3",
+            "All We Have To Do Was Follow The Damm Train": "cj_1.mp3",
+            "I'll Have Two Number 9's": "big-smoke-ill-have-two-number-9s-order.mp3",
         }
     },
     "Valve Sounds": {
@@ -97,6 +100,11 @@ folders = {
                     "Portal Radio (Radio Mix)": "4-01. Still Alive (Radio Mix).mp3",
                     "Wheatley Death": "Wheatley_bw_a4_death_trap01.wav",
                     "Are You Still There": "portal-turret-are-you-still-there_pGWToTI.mp3",
+                    "Owowowow": "owowowow-made-with-Voicemod.mp3",
+                    "Target Acquired": "target-acquired-made-with-Voicemod.mp3",
+                    "There You Are": "there-you-are-made-with-Voicemod.mp3",
+                    "Who Are You": "who-are-you-made-with-Voicemod.mp3",
+                    "What Are You Doing": "what-are-you-doing-made-with-Voicemod.mp3",
                     "I AM NOT A MORON": "wheatly-i-am-not-a-moron-made-with-Voicemod.mp3",
                     "Cave Johnson Lemons": "cave-johnson-lemons-full.mp3",
                     "Because I'm a Potato": "because-im-a-potato-101soundboards.mp3",
@@ -192,7 +200,9 @@ folders = {
                     "NOT LIKE US-MINECRAFT FULL": "Not Like Steve (Audio).mp3",
                     "Lava Chicken (APT. Cover)": "Lava Chicken (Audio).mp3", 
                     "FLINT AND MEAL": "Snapchat-1976634028.mp3",
+                    "Ender Pearl": "ender-pearl-made-with-Voicemod.mp3",
                     "All Minecraft Memes": "videoplayback.mp3",
+                    "Minecraft Villager Sound": "minecraft-vi̇llager-sound-made-with-Voicemod.mp3",
                 }
             }
         }
