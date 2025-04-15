@@ -135,6 +135,7 @@ folders = {
             "Are You Sure": "omni-man-are-you-sure.mp3",
             "I Am The Alpha": "I AM THE ALPHA  Christian Edit   #JesusChrist #Christianity #Revelation.mp3",
             "My Mommy Said No More Skibidi Toilet": "my-mommy-said-no-more-skibidi-toilet-made-with-Voicemod.mp3",
+            "AAAAAAAAAAAAAA": "aaaaaaaa-online-audio-converter_r9waVUO.mp3",
         }
     },
     "Music": {
@@ -180,6 +181,8 @@ folders = {
                     "Har-Har-Har-Har Meme": "har-har-har-har-fnaf-abdul-cisse-tiktok-(1)-made-with-Voicemod.mp3",
                     "FNAF Movie": "FNAF MOVIE _ Toreador March song (stem separation) 4.mp3",
                     "FNAF Brain Rot": "ytmp3free.cc_springtrap-uses-genalpha-slang-youtubemp3free.org - Copy.mp3",
+                    "Stuck Inside": "stuck-inside-part-6-(last-part)-made-with-Voicemod.mp3",
+                    "See That Meme Up There Sportsy": "m2-res_360p.mp3",
                 }
             },
             "Minecraft": {
@@ -202,7 +205,6 @@ folders = {
                     "FLINT AND MEAL": "Snapchat-1976634028.mp3",
                     "Ender Pearl": "ender-pearl-made-with-Voicemod.mp3",
                     "All Minecraft Memes": "videoplayback.mp3",
-                    "Minecraft Villager Sound": "minecraft-vi̇llager-sound-made-with-Voicemod.mp3",
                 }
             }
         }
