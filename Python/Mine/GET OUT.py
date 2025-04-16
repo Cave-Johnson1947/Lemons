@@ -62,6 +62,7 @@ looping_songs = [
     "NOT LIKE US-MINECRAFT FULL",
     "Lava Chicken (APT. Cover)",  
     "Ender Pearl",
+    "COMING IN HOT",
 ]
 
 folders = {
@@ -136,6 +137,8 @@ folders = {
             "I Am The Alpha": "I AM THE ALPHA  Christian Edit   #JesusChrist #Christianity #Revelation.mp3",
             "My Mommy Said No More Skibidi Toilet": "my-mommy-said-no-more-skibidi-toilet-made-with-Voicemod.mp3",
             "AAAAAAAAAAAAAA": "aaaaaaaa-online-audio-converter_r9waVUO.mp3",
+            "I May Not Have A Brain": "i-may-not-have-a-brain-gentleman-made-with-Voicemod.mp3",
+            "You Know What Else Is Massive": "you-know-what-else-is-massive-made-with-Voicemod.mp3",
         }
     },
     "Music": {
@@ -156,6 +159,8 @@ folders = {
             "Saul Goodman": "saul-goodman-made-with-Voicemod.mp3",
             "Free Bird": "only-the-best-part-of-free-bird-made-with-Voicemod.mp3",
             "I Am Iron Man": "i-am-iron-man-(epic-music-plays)-made-with-Voicemod.mp3",
+            "JESUS": "jesus-christ-made-with-Voicemod.mp3",
+            "Rapping For Jesus": "Jesus Christ is my nigga (Lyrics).mp3",
         }
     },
     "Game Sounds": {
@@ -204,6 +209,7 @@ folders = {
                     "Lava Chicken (APT. Cover)": "Lava Chicken (Audio).mp3", 
                     "FLINT AND MEAL": "Snapchat-1976634028.mp3",
                     "Ender Pearl": "ender-pearl-made-with-Voicemod.mp3",
+                    "COMING IN HOT": "10 MINUTES of COMING IN HOTMincraft Movie Trailer.mp3",
                     "All Minecraft Memes": "videoplayback.mp3",
                 }
             }
