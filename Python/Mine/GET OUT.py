@@ -140,6 +140,7 @@ folders = {
             "I May Not Have A Brain": "i-may-not-have-a-brain-gentleman-made-with-Voicemod.mp3",
             "You Know What Else Is Massive": "you-know-what-else-is-massive-made-with-Voicemod.mp3",
             "Me After Fixing My 3D Printer": "the-greatest-technician-that's-ever-lived-made-with-Voicemod.mp3",
+            "Agua Means Water": "Spy Kids 3 is a CGI Fever Dream-[AudioTrimmer.com].mp3",
         }
     },
     "Music": {
@@ -162,6 +163,11 @@ folders = {
             "I Am Iron Man": "i-am-iron-man-(epic-music-plays)-made-with-Voicemod.mp3",
             "JESUS": "jesus-christ-made-with-Voicemod.mp3",
             "Rapping For Jesus": "Jesus Christ is my nigga (Lyrics).mp3",
+            "Pirate Raido": "pirate-with-radio-made-with-Voicemod.mp3",
+            "You Are A Pirate":"Lazy Town  You Are A Pirate Music Video.mp3",
+            "31 Words That Sound Like Slurs But Aren't (Full)": "31 Words That Sound Like Slurs But Aren't-[AudioTrimmer.com]n.mp3",
+            "31 Words That Sound Like Slurs But Aren't (NIG-)": "31 Words That Sound Like Slurs But Aren't-[AudioTrimmer.com]-[AudioTrimmer.com]-[AudioTrimmer.com].mp3",
+            "Colonization Be lLike": "Stereotypical Music across the World-[AudioTrimmer.com].mp3",
         }
     },
     "Game Sounds": {
@@ -189,6 +195,7 @@ folders = {
                     "FNAF Brain Rot": "ytmp3free.cc_springtrap-uses-genalpha-slang-youtubemp3free.org - Copy.mp3",
                     "Stuck Inside": "stuck-inside-part-6-(last-part)-made-with-Voicemod.mp3",
                     "See That Meme Up There Sportsy": "m2-res_360p.mp3",
+                    "William Afton's Speech": "FNAF William Afton's (Springtrap) speech - I hate you. I've ALWAYS hated you.mp3",
                 }
             },
             "Minecraft": {
