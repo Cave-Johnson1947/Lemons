@@ -141,6 +141,7 @@ folders = {
             "You Know What Else Is Massive": "you-know-what-else-is-massive-made-with-Voicemod.mp3",
             "Me After Fixing My 3D Printer": "the-greatest-technician-that's-ever-lived-made-with-Voicemod.mp3",
             "Agua Means Water": "Spy Kids 3 is a CGI Fever Dream-[AudioTrimmer.com].mp3",
+            "Mario Death": "super-mario-death-sound-sound-effect.mp3",
         }
     },
     "Music": {
@@ -169,6 +170,7 @@ folders = {
             "31 Words That Sound Like Slurs But Aren't (Full)": "31 Words That Sound Like Slurs But Aren't-[AudioTrimmer.com]n.mp3",
             "31 Words That Sound Like Slurs But Aren't (NIG-)": "31 Words That Sound Like Slurs But Aren't-[AudioTrimmer.com]-[AudioTrimmer.com]-[AudioTrimmer.com].mp3",
             "Colonization Be Like": "Stereotypical Music across the World-[AudioTrimmer.com].mp3",
+            "Level 1-1": "Super Mario Brothers 1 Music - Main Theme & Overworld.mp3",
         }
     },
     "Game Sounds": {
@@ -201,7 +203,10 @@ folders = {
                     "Intro to Game Theory": "matpat-intro.-made-with-Voicemod.mp3",
                     "But Hey, That's Just A Theory": "but-hey,-that's-just-a-theory,-a-game-theory!-(sans-is-ness)-made-with-Voicemod.mp3",
                     "Phone Guy": "PHONE GUY IS FED UP WITH MATPAT! (FNAF ANIMATIC).mp3",
+                    "Phone Guy (FNAF 1 Night 1)":"Fnaf 1 Night 1 Call.mp3",
+                    "Animatronics Do Get A Bit Quirky At Night": "quirky-at-night.mp3",
                     "Jackie's Box": "JACKIE'S BOX - FNAF MIMIC SONG (Secret Of The Mimic Original Song).mp3",
+                    "WAS THAT THE BITE OF 87": "was-that-the-bite-of-87-made-with-Voicemod.mp3",
                 }
             },
             "Minecraft": {
@@ -224,6 +229,7 @@ folders = {
                     "FLINT AND MEAL": "Snapchat-1976634028.mp3",
                     "Ender Pearl": "ender-pearl-made-with-Voicemod.mp3",
                     "COMING IN HOT": "10 MINUTES of COMING IN HOTMincraft Movie Trailer.mp3",
+                    "Minecraft Song": "C418 - Minecraft - Minecraft Volume Alpha.mp3",
                     "All Minecraft Memes": "videoplayback.mp3",
                 }
             }
