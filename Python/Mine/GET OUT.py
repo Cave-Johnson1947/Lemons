@@ -163,11 +163,12 @@ folders = {
             "I Am Iron Man": "i-am-iron-man-(epic-music-plays)-made-with-Voicemod.mp3",
             "JESUS": "jesus-christ-made-with-Voicemod.mp3",
             "Rapping For Jesus": "Jesus Christ is my nigga (Lyrics).mp3",
+            "Lord I Need You Now": "Which type of reader are you_  @BibleWithDaniel #shorts #viral #christian #jesus.mp3",
             "Pirate Raido": "pirate-with-radio-made-with-Voicemod.mp3",
             "You Are A Pirate":"Lazy Town  You Are A Pirate Music Video.mp3",
             "31 Words That Sound Like Slurs But Aren't (Full)": "31 Words That Sound Like Slurs But Aren't-[AudioTrimmer.com]n.mp3",
             "31 Words That Sound Like Slurs But Aren't (NIG-)": "31 Words That Sound Like Slurs But Aren't-[AudioTrimmer.com]-[AudioTrimmer.com]-[AudioTrimmer.com].mp3",
-            "Colonization Be lLike": "Stereotypical Music across the World-[AudioTrimmer.com].mp3",
+            "Colonization Be Like": "Stereotypical Music across the World-[AudioTrimmer.com].mp3",
         }
     },
     "Game Sounds": {
@@ -181,7 +182,7 @@ folders = {
                     "FNAF 2 Ambience": "Voicy_Fnaf 2 ambience.mp3",
                     "Springlock Failure": "springlocked-(william-afton-death)-[fnaf-sfm]-made-with-Voicemod.mp3",
                     "My Name is Edwin": "my-name-is-edwin-i-made-the-mimic-made-with-Voicemod.mp3",
-                    "FNAF SL Song": "fnaf-sister-location-song-by-jt-music-join-us-for-a-bite-[sfm]-made-with-Voicemod.mp3",
+                    "Join Us For A Bite": "The Living Tombstone - Join Us for a Bite Remix.mp3",
                     "FNAF 1 Jumpscare": "fnaf-1-jumpscare-sound-made-with-Voicemod.mp3",
                     "FNAF 2 Jumpscare": "fnaf-2-jumpscare-sound-effect-made-with-Voicemod.mp3",
                     "FNAF 3 Jumpscare": "fnaf-3-jumpscare-sound-made-with-Voicemod.mp3",
@@ -196,6 +197,11 @@ folders = {
                     "Stuck Inside": "stuck-inside-part-6-(last-part)-made-with-Voicemod.mp3",
                     "See That Meme Up There Sportsy": "m2-res_360p.mp3",
                     "William Afton's Speech": "FNAF William Afton's (Springtrap) speech - I hate you. I've ALWAYS hated you.mp3",
+                    "Hello Internet, Welcome to Game Theory!": "HELLO INTERNET, WELCOME TO GAME THEORY!.mp3",
+                    "Intro to Game Theory": "matpat-intro.-made-with-Voicemod.mp3",
+                    "But Hey, That's Just A Theory": "but-hey,-that's-just-a-theory,-a-game-theory!-(sans-is-ness)-made-with-Voicemod.mp3",
+                    "Phone Guy": "PHONE GUY IS FED UP WITH MATPAT! (FNAF ANIMATIC).mp3",
+                    "Jackie's Box": "JACKIE'S BOX - FNAF MIMIC SONG (Secret Of The Mimic Original Song).mp3",
                 }
             },
             "Minecraft": {
