@@ -145,6 +145,7 @@ folders = {
             "Agua Means Water": "Spy Kids 3 is a CGI Fever Dream-[AudioTrimmer.com].mp3",
             "Mario Death": "super-mario-death-sound-sound-effect.mp3",
             "Wow That's A Lot Of Words": "duke-nukem-wow-thats-a-lot-of-words.mp3",
+            "Vsauce Intro": "jake-chudnow-edited_y1t8j5q.mp3",
         }
     },
     "Music": {
@@ -174,6 +175,7 @@ folders = {
             "31 Words That Sound Like Slurs But Aren't (NIG-)": "31 Words That Sound Like Slurs But Aren't-[AudioTrimmer.com]-[AudioTrimmer.com]-[AudioTrimmer.com].mp3",
             "Colonization Be Like": "Stereotypical Music across the World-[AudioTrimmer.com].mp3",
             "Level 1-1": "Super Mario Brothers 1 Music - Main Theme & Overworld.mp3",
+            "Bad To The Bone": "bad-to-the-bone-full-made-with-Voicemod.mp3",
         }
     },
     "Game Sounds": {
