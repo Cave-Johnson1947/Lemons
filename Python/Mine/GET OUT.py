@@ -63,6 +63,8 @@ looping_songs = [
     "Lava Chicken (APT. Cover)",  
     "Ender Pearl",
     "COMING IN HOT",
+    "FE!N x Steve (will change later)",
+    "Minecraft Song",
 ]
 
 folders = {
@@ -142,6 +144,7 @@ folders = {
             "Me After Fixing My 3D Printer": "the-greatest-technician-that's-ever-lived-made-with-Voicemod.mp3",
             "Agua Means Water": "Spy Kids 3 is a CGI Fever Dream-[AudioTrimmer.com].mp3",
             "Mario Death": "super-mario-death-sound-sound-effect.mp3",
+            "Wow That's A Lot Of Words": "duke-nukem-wow-thats-a-lot-of-words.mp3",
         }
     },
     "Music": {
@@ -207,6 +210,7 @@ folders = {
                     "Animatronics Do Get A Bit Quirky At Night": "quirky-at-night.mp3",
                     "Jackie's Box": "JACKIE'S BOX - FNAF MIMIC SONG (Secret Of The Mimic Original Song).mp3",
                     "WAS THAT THE BITE OF 87": "was-that-the-bite-of-87-made-with-Voicemod.mp3",
+                    "Withered Bonnie Gets Revenge": "Withered bonnie gets revenge.mp3",
                 }
             },
             "Minecraft": {
@@ -226,10 +230,11 @@ folders = {
                     "NOT LIKE US-MINECRAFT": "I AM STEVE 🗣️🗣️🔥🔥  #minecraft   #minecraftmeme   #edit   #trend   #song 4.mp3",
                     "NOT LIKE US-MINECRAFT FULL": "Not Like Steve (Audio).mp3",
                     "Lava Chicken (APT. Cover)": "Lava Chicken (Audio).mp3", 
-                    "FLINT AND MEAL": "Snapchat-1976634028.mp3",
+                    "FE!N x Steve (will change later)": "FE!N x Steve (ins. @doombreaker4689) #minecraft #minecraftmeme #edit #song #trend.mp3",
                     "Ender Pearl": "ender-pearl-made-with-Voicemod.mp3",
                     "COMING IN HOT": "10 MINUTES of COMING IN HOTMincraft Movie Trailer.mp3",
                     "Minecraft Song": "C418 - Minecraft - Minecraft Volume Alpha.mp3",
+                    "FLINT AND MEAL": "Snapchat-1976634028.mp3",
                     "All Minecraft Memes": "videoplayback.mp3",
                 }
             }
