@@ -65,6 +65,7 @@ looping_songs = [
     "COMING IN HOT",
     "FE!N x Steve (will change later)",
     "Minecraft Song",
+    "Hot Lava And Chicken",
 ]
 
 folders = {
@@ -176,6 +177,7 @@ folders = {
             "Colonization Be Like": "Stereotypical Music across the World-[AudioTrimmer.com].mp3",
             "Level 1-1": "Super Mario Brothers 1 Music - Main Theme & Overworld.mp3",
             "Bad To The Bone": "bad-to-the-bone-full-made-with-Voicemod.mp3",
+            "Oiia Oiia Cat": "OIIAOIIA CAT but in 4K.mp3"
         }
     },
     "Game Sounds": {
@@ -201,6 +203,7 @@ folders = {
                     "Har-Har-Har-Har Meme": "har-har-har-har-fnaf-abdul-cisse-tiktok-(1)-made-with-Voicemod.mp3",
                     "FNAF Movie": "FNAF MOVIE _ Toreador March song (stem separation) 4.mp3",
                     "FNAF Brain Rot": "ytmp3free.cc_springtrap-uses-genalpha-slang-youtubemp3free.org - Copy.mp3",
+                    "Toreadors March": "toreadors-march-made-with-Voicemod.mp3",
                     "Stuck Inside": "stuck-inside-part-6-(last-part)-made-with-Voicemod.mp3",
                     "See That Meme Up There Sportsy": "m2-res_360p.mp3",
                     "William Afton's Speech": "FNAF William Afton's (Springtrap) speech - I hate you. I've ALWAYS hated you.mp3",
@@ -212,7 +215,9 @@ folders = {
                     "Animatronics Do Get A Bit Quirky At Night": "quirky-at-night.mp3",
                     "Jackie's Box": "JACKIE'S BOX - FNAF MIMIC SONG (Secret Of The Mimic Original Song).mp3",
                     "WAS THAT THE BITE OF 87": "was-that-the-bite-of-87-made-with-Voicemod.mp3",
+                    "Freddy's Honk": "fnaf-12-3-freddys-nose-sound.mp3",
                     "Withered Bonnie Gets Revenge": "Withered bonnie gets revenge.mp3",
+                    "Fredbear Plush": "Who you gonna call_.mp3",
                 }
             },
             "Minecraft": {
@@ -222,7 +227,7 @@ folders = {
                     "The Nether (Normal)": "1_HOUR_of_THE_NETHER_Mincraft_Movie_Trailer.mp3",
                     "Chicken Jockey": "chicken-jockey-minecraft-movie-made-with-Voicemod.mp3",
                     "I Am Steve": "i...-am-steve-made-with-Voicemod.mp3",
-                    "This is a Crafting Table": "this-is-a-crafting-table.mp3",
+                    "This is a Crafting Table": "CRAFTING TABLE Minecraft Movie Meme Sound - NO COPYRIGHT (HD)-[AudioTrimmer.com].mp3",
                     "As A Child I Yearned For The Mines": "as-a-child-i-yearned-for-the-mines.mp3",
                     "Steve's Lava Chicken":  "Steve's Lava Chicken.mp3", 
                     "Why You Should See The Minecraft Movie": "Why you should see the minecraft movie.mp3",
@@ -237,6 +242,7 @@ folders = {
                     "COMING IN HOT": "10 MINUTES of COMING IN HOTMincraft Movie Trailer.mp3",
                     "Minecraft Song": "C418 - Minecraft - Minecraft Volume Alpha.mp3",
                     "FLINT AND MEAL": "Snapchat-1976634028.mp3",
+                    "Hot Lava And Chicken": "Minecraft Hot Lava And Chicken.mp3",
                     "All Minecraft Memes": "videoplayback.mp3",
                 }
             }
