@@ -66,6 +66,7 @@ looping_songs = [
     "FE!N x Steve (will change later)",
     "Minecraft Song",
     "Hot Lava And Chicken",
+    "NEVER GONNA ENDER PEARL",
 ]
 
 folders = {
@@ -151,7 +152,7 @@ folders = {
     },
     "Music": {
         "songs": {
-            "Rap God": "101.mp3",
+            "Rap God": "Eminem - Rap God (Fast part).mp3",
             "Eminem Rap": "my-name-is-eminem-and-i-like-to-rap.mp3",
             "Guess Whos Back": "guess-whos-back-shadys-back.mp3",
             "Oranana": "Voicy_Eminem Rhymes Banana And Orange Oranana.mp3",
@@ -242,6 +243,7 @@ folders = {
                     "Minecraft Song": "C418 - Minecraft - Minecraft Volume Alpha.mp3",
                     "FLINT AND MEAL": "Snapchat-1976634028.mp3",
                     "Hot Lava And Chicken": "Minecraft Hot Lava And Chicken.mp3",
+                    "NEVER GONNA ENDER PEARL": "NEVER GONNA ENDER PEARL (scrapped).mp3",
                     "All Minecraft Memes": "videoplayback.mp3",
                 }
             }
