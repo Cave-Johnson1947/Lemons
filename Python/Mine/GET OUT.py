@@ -216,6 +216,7 @@ folders = {
                     "Animatronics Do Get A Bit Quirky At Night": "quirky-at-night.mp3",
                     "Jackie's Box": "JACKIE'S BOX - FNAF MIMIC SONG (Secret Of The Mimic Original Song).mp3",
                     "WAS THAT THE BITE OF 87": "was-that-the-bite-of-87-made-with-Voicemod.mp3",
+                    "6 AM": "five-nights-at-freddys-6-am.mp3",
                     "Freddy's Honk": "fnaf-12-3-freddys-nose-sound.mp3",
                     "Withered Bonnie Gets Revenge": "Withered bonnie gets revenge.mp3",
                     "Fredbear Plush": "Who you gonna call_.mp3",
