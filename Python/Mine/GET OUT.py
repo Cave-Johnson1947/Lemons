@@ -172,7 +172,7 @@ folders = {
             "Rapping For Jesus": "Jesus Christ is my nigga (Lyrics).mp3",
             "Lord I Need You Now": "Which type of reader are you_  @BibleWithDaniel #shorts #viral #christian #jesus.mp3",
             "Pirate Raido": "pirate-with-radio-made-with-Voicemod.mp3",
-            "You Are A Pirate":"Lazy Town  You Are A Pirate Music Video.mp3",
+            "You Are A Pirate": "Lazy Town  You Are A Pirate Music Video.mp3",
             "31 Words That Sound Like Slurs But Aren't (Full)": "31 Words That Sound Like Slurs But Aren't-[AudioTrimmer.com]n.mp3",
             "31 Words That Sound Like Slurs But Aren't (NIG-)": "31 Words That Sound Like Slurs But Aren't-[AudioTrimmer.com]-[AudioTrimmer.com]-[AudioTrimmer.com].mp3",
             "Colonization Be Like": "Stereotypical Music across the World-[AudioTrimmer.com].mp3",
