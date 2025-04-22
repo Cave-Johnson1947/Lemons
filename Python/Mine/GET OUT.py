@@ -158,6 +158,7 @@ folders = {
             "Guess Whos Back": "guess-whos-back-shadys-back.mp3",
             "Oranana": "Voicy_Eminem Rhymes Banana And Orange Oranana.mp3",
             "Criminal": "im-a-criminal.mp3",
+            "USA Anthem": "United States of America National Anthem (Instrumental).mp3",
             "Erika Song": "Erika-German-Song-Sound-Effect.mp3",
             "USSR": "Soviet-Union-Anthem-Sound-Effect.mp3",
             "Kirby": "KIRBY DREAM LAND - AUDIO FROM JAYUZUMI.COM.mp3",
@@ -178,7 +179,8 @@ folders = {
             "Colonization Be Like": "Stereotypical Music across the World-[AudioTrimmer.com].mp3",
             "Level 1-1": "Super Mario Brothers 1 Music - Main Theme & Overworld.mp3",
             "Bad To The Bone": "bad-to-the-bone-full-made-with-Voicemod.mp3",
-            "Oiia Oiia Cat": "OIIAOIIA CAT but in 4K.mp3"
+            "Oiia Oiia Cat": "OIIAOIIA CAT but in 4K.mp3",
+            "lingangguliguli": "lingangguliguli.mp4 #acapella #harmony.mp3",
         }
     },
     "Game Sounds": {
