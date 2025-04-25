@@ -67,6 +67,7 @@ looping_songs = [
     "Minecraft Song",
     "Hot Lava And Chicken",
     "NEVER GONNA ENDER PEARL",
+    "The 8 Steves",
 ]
 
 folders = {
@@ -248,6 +249,7 @@ folders = {
                     "FLINT AND MEAL": "Snapchat-1976634028.mp3",
                     "Hot Lava And Chicken": "Minecraft Hot Lava And Chicken.mp3",
                     "NEVER GONNA ENDER PEARL": "NEVER GONNA ENDER PEARL (scrapped).mp3",
+                    "The 8 Steves": "The 8 Steves #memes #steve #undertale #minecraft.mp3",
                     "All Minecraft Memes": "videoplayback.mp3",
                 }
             }
