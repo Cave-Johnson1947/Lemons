@@ -68,7 +68,7 @@ looping_songs = [
     "Hot Lava And Chicken",
     "NEVER GONNA ENDER PEARL",
     "The 8 Steves",
-    "FNAF Lingangguliguli",
+    "FNAF lingangguliguli"
 ]
 
 folders = {
