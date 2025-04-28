@@ -68,6 +68,7 @@ looping_songs = [
     "Hot Lava And Chicken",
     "NEVER GONNA ENDER PEARL",
     "The 8 Steves",
+    "FNAF Lingangguliguli",
 ]
 
 folders = {
@@ -223,6 +224,8 @@ folders = {
                     "Freddy's Honk": "fnaf-12-3-freddys-nose-sound.mp3",
                     "Withered Bonnie Gets Revenge": "Withered bonnie gets revenge.mp3",
                     "Fredbear Plush": "Who you gonna call_.mp3",
+                    "That’s why Charlie’s dead.": "Thats why Charlies dead..mp3",
+                    "FNAF lingangguliguli": "Linganguli guli guli #fnafmemes.mp3" 
                 }
             },
             "Minecraft": {

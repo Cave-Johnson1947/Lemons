@@ -1,32 +1,8 @@
-def quiz():
-    print("Welcome to the 1800s Cost Quiz!")
-    print("Answer the following questions to find out how much you would have cost in the 1800s.")
-    
-    age = int(input("How old are you? "))
-    occupation = input("What is your occupation (farmer, blacksmith, teacher, etc.)? ").lower()
-    skills = input("Do you have any special skills (yes/no)? ").lower()
+num_names = int(input("How many names do you have?: "))  # Store the input in a variable
 
-    cost = 0
+my_string = ""
 
-    if age < 18:
-        cost += 5  # Young people were cheaper
-    elif age < 40:
-        cost += 20  # Adults in their prime
-    else:
-        cost += 15  # Older adults
+for i in range(num_names):  # Use the stored variable
+    my_string += input("Enter name: ") + " "  # Add a space instead of a newline
 
-    if occupation == "farmer":
-        cost += 25
-    elif occupation == "blacksmith":
-        cost += 30
-    elif occupation == "teacher":
-        cost += 35
-    else:
-        cost += 20  # Other occupations
-
-    if skills == "yes":
-        cost += 10  # Extra for special skills
-
-    print(f"You would have cost approximately {cost} dollars in the 1800s!")
-
-quiz()
+print(my_string.strip())  # Strip trailing space before printing
