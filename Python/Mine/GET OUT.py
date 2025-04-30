@@ -151,6 +151,7 @@ folders = {
             "Wow That's A Lot Of Words": "duke-nukem-wow-thats-a-lot-of-words.mp3",
             "Vsauce Intro": "jake-chudnow-edited_y1t8j5q.mp3",
             "500 Cigarettes": "500-cigarettes-made-with-Voicemod.mp3",
+            "Invincible Title Card": "invincible-title-card-made-with-Voicemod.mp3"
         }
     },
     "Music": {
