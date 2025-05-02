@@ -151,7 +151,8 @@ folders = {
             "Wow That's A Lot Of Words": "duke-nukem-wow-thats-a-lot-of-words.mp3",
             "Vsauce Intro": "jake-chudnow-edited_y1t8j5q.mp3",
             "500 Cigarettes": "500-cigarettes-made-with-Voicemod.mp3",
-            "Invincible Title Card": "invincible-title-card-made-with-Voicemod.mp3"
+            "Invincible Title Card": "invincible-title-card-made-with-Voicemod.mp3",
+            "Bingle Bongle Dingle Dangle": "bingle-bongle-dingle-dangle.mp3",
         }
     },
     "Music": {
@@ -184,6 +185,7 @@ folders = {
             "Bad To The Bone": "bad-to-the-bone-full-made-with-Voicemod.mp3",
             "Oiia Oiia Cat": "OIIAOIIA CAT but in 4K.mp3",
             "lingangguliguli": "lingangguliguli.mp4 #acapella #harmony.mp3",
+            "We got to celebrate our differences": "we-got-to-celebrate-our-differences-made-with-Voicemod.mp3"
         }
     },
     "Game Sounds": {
@@ -226,7 +228,8 @@ folders = {
                     "Withered Bonnie Gets Revenge": "Withered bonnie gets revenge.mp3",
                     "Fredbear Plush": "Who you gonna call_.mp3",
                     "That’s why Charlie’s dead.": "Thats why Charlies dead..mp3",
-                    "FNAF lingangguliguli": "Linganguli guli guli #fnafmemes.mp3" 
+                    "FNAF lingangguliguli": "Linganguli guli guli #fnafmemes.mp3",
+                    "Please Deposit 5 Coins": "deposit.mp3",
                 }
             },
             "Minecraft": {
