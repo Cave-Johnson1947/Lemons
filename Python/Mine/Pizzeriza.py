@@ -1,5 +1,5 @@
 import time
-menu = ["banana", "carrot", "blueberries", "rice", "cheese",]
+menu = ["Banana", "Carrot", "Blueberries", "Rice", "Cheese", "Gay Beans",]
 reservation_times = ["7:00", "7:30", "8:00", "4:29",]
 specials = ["Lobster Bisque", "Truffle Mac and Cheese", "Stuffed Mushrooms"]
 

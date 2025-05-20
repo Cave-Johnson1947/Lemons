@@ -124,6 +124,7 @@ folders = {
                     "You Have Brain Damage": "you-have-brain-damage-made-with-Voicemod.mp3",
                     "Cave Johnson Multiverse": "Portal 2 Perpetual Testing Initiative (mp3cut.net).mp3",
                     "Cave Johnson Methods": "Portal 2 Perpetual Testing Initiative (mp3cut.net) (1).mp3",
+                    "Fatty, Fatty, No Parents": "Fatty, Fatty no-parents. Portal2 #portal2 #portal #Wheatley #glados.mp3"
                 }
             }
         }
@@ -230,6 +231,7 @@ folders = {
                     "That’s why Charlie’s dead.": "Thats why Charlies dead..mp3",
                     "FNAF lingangguliguli": "Linganguli guli guli #fnafmemes.mp3",
                     "Please Deposit 5 Coins": "deposit.mp3",
+                    "FNAF x Steve": "FNAF x Steve #minecraft #minecraftmeme #fnaf #edit #song #trend.mp3",
                 }
             },
             "Minecraft": {
