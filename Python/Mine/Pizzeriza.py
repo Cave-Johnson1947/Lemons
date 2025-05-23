@@ -51,7 +51,7 @@ def order_takeout():
     if order_list:
         print("Your order has been placed! You ordered:")
         for item in order_list:
-            print(f"- {item}")
+            print(f"{item}")
     else:
         print("You didn't order anything.")
         
